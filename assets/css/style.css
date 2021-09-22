@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
-  font-weight: bolder;
+  font-weight: 900;
 }
 .navbar a i, .navbar a:focus i {
   font-size: 12px;
